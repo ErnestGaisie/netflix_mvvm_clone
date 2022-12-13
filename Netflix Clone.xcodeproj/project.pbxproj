@@ -20,6 +20,7 @@
 		1858E1432944E4B700EEA333 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1858E1422944E4B700EEA333 /* HeroHeaderUIView.swift */; };
 		18688E8F2948A4C400E8330C /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18688E8E2948A4C400E8330C /* APICaller.swift */; };
 		18688E912948AD4100E8330C /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18688E902948AD4100E8330C /* Movie.swift */; };
+		18688E932948BA9600E8330C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18688E922948BA9600E8330C /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		1858E1422944E4B700EEA333 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		18688E8E2948A4C400E8330C /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		18688E902948AD4100E8330C /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		18688E922948BA9600E8330C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 		1858E13E2944D21800EEA333 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				18688E922948BA9600E8330C /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				1858E1432944E4B700EEA333 /* HeroHeaderUIView.swift in Sources */,
 				1858E13A2944B45700EEA333 /* DownloadsViewController.swift in Sources */,
 				1858E11F2944A88200EEA333 /* AppDelegate.swift in Sources */,
+				18688E932948BA9600E8330C /* Extensions.swift in Sources */,
 				1858E1212944A88200EEA333 /* SceneDelegate.swift in Sources */,
 				1858E1362944B3D700EEA333 /* UpcomingViewController.swift in Sources */,
 				18688E912948AD4100E8330C /* Movie.swift in Sources */,
